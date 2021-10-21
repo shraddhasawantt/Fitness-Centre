@@ -1,0 +1,36 @@
+
+
+Customer Details: 8495604
+Dharmik Shetty
+Mumbai
+8779167183
+BMI = 25
+
+Plan Selected: Build
+
+Customer Details: 8495604
+Dharmik Shetty
+Mumbai
+8779167183
+BMI = 25
+
+Plan Selected: Build
+
+Customer Details: 6224761
+Raj Thakkar
+Gujarat
+9920588814
+BMI = 18
+
+Plan Selected: Personal Trainer
+
+
+Customer Details: 2060635
+Shradhha
+Mumbai
+8879994545
+BMI = 28
+
+Plan Selected: Weight Loss
+
+ 
